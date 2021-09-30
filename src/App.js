@@ -89,6 +89,8 @@ export default function App() {
           </li>
         ))}
       </ul>
+      <div style = {{height:"10mm"}}></div>
+
       <footer className="footer heading-alignc">
         <div>
           <h2 className="heading-alignc">Social Network</h2>

@@ -36,3 +36,8 @@
 .footer .link {
   color: white;
 }
+.container-center {
+  max-width: 600px;
+  margin: auto;
+}
+

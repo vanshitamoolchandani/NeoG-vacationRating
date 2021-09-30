@@ -61,7 +61,7 @@ export default function App() {
 
       <h2 style={{ fontSize: "1.8rem" }}>Destinations:</h2>
       <ul
-        className="list-nobullets"
+        className="list-nobullets container-center"
         style={{ display: "block", backgroundColor: "#fad6d2" }}
       >
         {destinations[vacation].map((destinations) => (
